@@ -9,5 +9,5 @@ Nama saya Amro saya biasa dipanggil Amroslayer di dunia maya, saya terkadang dik
 
 ## Credit
 > Yasir and Indra DP for the inspiration
-***
+
 > Artemsheludko for this amazing web theme
