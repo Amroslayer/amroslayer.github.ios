@@ -23,7 +23,7 @@ Karena open source mengizinkan kita untuk bisa melihat kode sumber yang mereka b
 
 ### 1. [KeepassXC](https://keepassxc.org)
 
-![]({{site.baseurl}}/img/keepassXC.png)
+![]({{site.baseurl}}/img/keepasXC.png)
 
 KeepassXC adalah software password manager open source yang berbasis dari [Keepass](https://keepass.info) untuk menyimpan database password kita dan juga tidak memerlukan internet karena password yang kita buat tidak disimpan di cloud tetapi di tempat penyimpanan kita sendiri sehingga kita dapat mengontrol penuh dengan password yang kita buat.
 
