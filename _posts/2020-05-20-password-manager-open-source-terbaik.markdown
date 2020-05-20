@@ -1,29 +1,56 @@
 ---
 layout: post
-title:  Password manager open soure terbaik
+title:  3 Password manager open soure terbaik untuk membantu mengingat password akun
 date:   2020-05-20 12:06:55 +0300
-image:  01.jpg
-tags:   [Lifehacks, Tutorial]
+image:  password.jpg
+tags:   [Tutorial, Lifehacks]
 ---
-Password adalah data yang sangat penting untuk menjaga keamanan akun kita, password kata yang bersifat rahasia yang hanya diketahui oleh pembuat password tersebut.
+Password adalah data yang sangat penting untuk menjaga keamanan akun kita, password merupakan kata yang bersifat rahasia yang hanya diketahui oleh pembuat password tersebut untuk memverifikasi sebuah akun.
 
-Di saat WFH atau Work From Home, banyak kasus dimana banyak data pengguna yang bocor salah satu penyebabnya karena password yang kurang kuat dan mengandung kata-kata umum seperti nama kota,nama makanan dan lain-lain. Kebanyakan orang membuat password menggunakan kata-kata umum alhasil password pun bocor dan akun pun diretas oleh oknum yang tidak bertanggung jawab
+Kita pasti pernah membuat banyak akun seperti facebook, gmail, instagram, dll. akan tetapi, setiap membuat akun terkadang membuat password yang sama dengan tujuan agar mudah diingat. kalau kita membuat password yang sama di semua akun akan menjadi masalah yang besar karena kalau password tersebut bocor maka akun kita yang lain pasti terkena dampaknya.
 
-Oleh karena itu, agar kita tidak lupa dengan password kita memerlukan password manager. Ada beberapa layanan password manager gratis di google tapi layanan tersebut kurang menjamin seperti _apakah aman password saya disimpan disitu?_. Disini saya telah memilih beberapa password manager yang aman dan open source
+Untuk menghindari hal tersebut kita harus membuat password yang sulit ditebak dan juga agar tidak lupa dengan password yang tersimpan diperlukannya password manager. **Apa itu password manager?**, Password manager adalah sebuah aplikasi yang berfungsi untuk membuat sebuah password dengan kombinasi yang rumit, komplek dan panjang tapi kamu tidak perlu mengingatnya. Karena password tersebut akan disimpan dan diatur oleh aplikasi ini. Ada beberapa software dan web layanan password manager gratis di internet tapi layanan tersebut kurang menjamin karena close source (Sumber kode tertutup) yang bisa saja password kita yang tersimpan kurang terjamin keamanannya. Disini saya telah memilih beberapa password manager yang aman dan juga open source(Sumber kode terbuka)
 
 ---
 
 ## Mengapa memilih yang open source?
 Karena open source mengizinkan kita untuk bisa melihat kode sumber yang mereka buat untuk bisa kita analisis sehingga keamanan bisa terjamin dan juga transparan
 
+---
+
 ### Password manager open soure terbaik
 
-### 1. Keepass
 
-Keepass adalah software password manager untuk menyimpan database password kita dan juga tidak memerlukan internet karena password yang kita buat tidak disimpan di cloud tetapi di hardisk kita sendiri sehingga hanya kita yang dapat mengontrol penuh dengan password kita.
+### 1. [KeepassXC](https://keepassxc.org)
 
-### 2. Keeweb
+![]({{site.baseurl}}/img/keepassXC.png)
+
+KeepassXC adalah software password manager open source yang berbasis dari [Keepass](https://keepass.info) untuk menyimpan database password kita dan juga tidak memerlukan internet karena password yang kita buat tidak disimpan di cloud tetapi di tempat penyimpanan kita sendiri sehingga kita dapat mengontrol penuh dengan password yang kita buat.
+
+Source code Github : https://github.com/keepassxreboot/keepassxc
+
+
+### 2. [Keeweb](https://keeweb.info)
+
+![]({{site.baseurl}}/img/Keeweb.png)
+
+Keeweb mungkin bisa menjadi alternatif buat kalian karena keeweb kerjanya sama dengan KeepassXC tapi kalian juga bisa menyimpannya ke penyimpanan cloud seperti google drive, dan dropbox. Keebweb tersedia di Windows, Mac os, dan Linux.
+
+Source code Github :https://github.com/keeweb/keeweb
+
 
 ### 3. [Bitwarden](https://bitwarden.com)
 
-Bitwarden merupakan password manager open source yang populer saat ini. yang terbaik dari bitwarden adalah softwarenya tersedia di banyak perangkat seperti Windows, Linux, android, IOS dan bahkan Add-ons browser.sehingga kita bisa melihat password kita di perangkat lain.
+![]({{site.baseurl}}/img/bitwarden.png)
+
+Bitwarden merupakan password manager open source yang populer saat ini. yang menarik dari bitwarden adalah softwarenya tersedia di hampir semua perangkat seperti Windows, Linux, android, IOS dan bahkan Add-ons browser.password yang kita buat akan tersimpan di server bitwarden, jangan khawatir walaupun password tersimpan di cloud bitwarden, password kita yang simpan telah enkripsi end-to-end AES-256 bit encryption, salted hashing, dan PBKDF2 SHA-256.
+
+Source code Github :https://github.com/bitwarden
+
+---
+
+#### Penutup
+
+Itulah beberapa password manager open source terbaik, sebenarnya ada banyak software password manager yang bersifat open source, akan tetapi tidak semua open source merupakan yang terbaik. Jika ada kekurangan atau kesalahan kata saya mengucapkan minta maaf sebesar-besarnya. Terima kasih :)
+
+## Amroslayer
