@@ -31,7 +31,7 @@ KeepassXC tersedia di windows, Linux, dan Macos. Untuk android kalian bisa mengu
 
 Website resmi : 
 
-![](https://keepassxc.org) Desktop
+[](https://keepassxc.org) Desktop
 
 [https://www.keepassdx.com](https://www.keepassdx.com) android
 
