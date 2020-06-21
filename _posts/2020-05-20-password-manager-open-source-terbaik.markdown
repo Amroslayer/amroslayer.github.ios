@@ -52,7 +52,7 @@ Source code Github : [https://github.com/keeweb/keeweb](https://github.com/keewe
 
 ### 3. [Bitwarden](https://bitwarden.com)
 
-![]({{site.baseurl}}/img/bitwarden hp.jpg)
+![]({{site.baseurl}}/img/bitwarden.jpg)
 
 Bitwarden merupakan password manager open source yang populer saat ini. yang menarik dari bitwarden adalah softwarenya tersedia di hampir semua perangkat seperti Windows, Linux, android, IOS dan bahkan Add-ons browser.password yang kita buat akan tersimpan di server bitwarden, jangan khawatir walaupun password tersimpan di cloud bitwarden, password kita yang simpan telah dienkripsi end-to-end AES-256 bit encryption, salted hashing, dan PBKDF2 SHA-256.
 
