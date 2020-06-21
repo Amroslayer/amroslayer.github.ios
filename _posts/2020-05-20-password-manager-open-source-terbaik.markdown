@@ -25,8 +25,6 @@ Karena open source mengizinkan kita untuk bisa melihat kode sumber yang mereka b
 
 ![]({{site.baseurl}}/img/keepasXC.png)
 
-![]({{site.baseurl}}/img/keepassdx.png)
-
 KeepassXC adalah software password manager open source yang berbasis dari [Keepass](https://keepass.info) untuk menyimpan database password kita dan juga tidak memerlukan internet karena password yang kita buat tidak disimpan di cloud tetapi di tempat penyimpanan kita sendiri sehingga kita dapat mengontrol penuh dengan password yang kita buat.Database tersebut akan tersimpan dalam bentuk format .kdbx dan juga telah dienksripsi dengan password sehingga jika kita lupa password database, kita tidak dapat melihat dan mengembalikan semua password yang tersimpan
 
 KeepassXC tersedia di windows, Linux, dan Macos. Untuk android kalian bisa mengunjungi [https://www.keepassdx.com](https://www.keepassdx.com)
@@ -53,8 +51,6 @@ Source code Github : [https://github.com/keeweb/keeweb](https://github.com/keewe
 
 
 ### 3. [Bitwarden](https://bitwarden.com)
-
-![]({{site.baseurl}}/img/bitwarden.png)
 
 ![]({{site.baseurl}}/img/bitwarden hp.jpg)
 
