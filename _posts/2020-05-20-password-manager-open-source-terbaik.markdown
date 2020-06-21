@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  3 Password manager open soure terbaik
+title:  3 Password manager open source terbaik
 date:   2020-05-20 12:06:55 +0300
 image:  password.jpg
 tags:   [Tutorial, Lifehacks]
@@ -18,7 +18,7 @@ Karena open source mengizinkan kita untuk bisa melihat kode sumber yang mereka b
 
 ---
 
-### Password manager open soure terbaik
+### Password manager open source terbaik
 
 
 ### 1. [KeepassXC](https://keepassxc.org)
@@ -31,7 +31,7 @@ KeepassXC tersedia di windows, Linux, dan Macos. Untuk android kalian bisa mengu
 
 Website resmi : 
 
-[https://keepassxc.org](https://keepassxc.org) Desktop
+![](https://keepassxc.org) Desktop
 
 [https://www.keepassdx.com](https://www.keepassdx.com) android
 
