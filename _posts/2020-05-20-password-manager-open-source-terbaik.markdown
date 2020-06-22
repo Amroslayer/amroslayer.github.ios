@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  3 Password manager open source terbaik
+title:  3 Password Manager Open Source Terbaik
 date:   2020-05-20 12:06:55 +0300
 image:  password.jpg
 tags:   [Tutorial, Lifehacks]
