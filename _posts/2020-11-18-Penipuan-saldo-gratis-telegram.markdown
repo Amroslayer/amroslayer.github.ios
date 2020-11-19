@@ -12,7 +12,7 @@ Baru-baru ini ada banyak member grup pada saat kita asik diskusi di grup tiba-ti
 
 Sudah ada banyak korban yang termakan karena Bottermasuk salah satu yang saya tampilkan di bawah ini, pada saat melakukan penarikan uang di bot telegram pelakunya langsung kabur yah... sia sia dong sudah susah-susah share ke banyak grup tapi PHP wkwkwkwkwkwk :v
 
-<blockquote class="twitter-tweet"><p lang="in" dir="ltr">Nah ternyata, ada salah satu temen mutual gue kena tipu. Jadi disitu wajib kasih fee/pajak sebesar 5.000-10.000 an untuk sekali penarikan saldo yg ada di bot wkwk hadeh pinter bgt penipu ya zman skrg.<br><br>Pas temen gue curiga karena ga dibales bales , ternyata... <a href="https://t.co/KIz89lxM5f">pic.twitter.com/KIz89lxM5f</a></p>&mdash; ꪀ​ꪮ​𝓽​ ꪖ​ꫀ​𝘴​𝓽​ꫝ​ꫀ​𝓽​𝓲​ᥴ​🕊 (@beingluvyouall) <a href="https://twitter.com/beingluvyouall/status/1328324898649894912?ref_src=twsrc%5Etfw">November 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<iframe src="https://twitter.com/beingluvyouall/status/1328324898649894912" frameborder="0" ></iframe>
 
 Selain memakan banyak korban, pastinya ada dampak negatif lain yang ditimbulkan kalau main bot referral antara lain :
 1. Grup Telegram menjadi tidak teratur karena mengirim link bot tersebut membuat grup menjadi spam
