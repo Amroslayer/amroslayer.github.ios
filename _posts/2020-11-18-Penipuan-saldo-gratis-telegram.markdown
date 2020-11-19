@@ -12,10 +12,9 @@ Baru-baru ini ada banyak member grup pada saat kita asik diskusi di grup tiba-ti
 
 Sudah ada banyak korban yang termakan karena Bottermasuk salah satu yang saya tampilkan di bawah ini, pada saat melakukan penarikan uang di bot telegram pelakunya langsung kabur yah... sia sia dong sudah susah-susah share ke banyak grup tapi PHP wkwkwkwkwkwk :v
 
-<div class='jekyll-twitter-plugin' align="center">
+<div class='jekyll-twitter-plugin'>
     {% twitter https://twitter.com/beingluvyouall/status/1328324898649894912 align=left maxwidth=500 %}
 </div>
-
 
 Selain memakan banyak korban, pastinya ada dampak negatif lain yang ditimbulkan kalau main bot referral antara lain :
 1. Grup Telegram menjadi tidak teratur karena mengirim link bot tersebut membuat grup menjadi spam
