@@ -49,6 +49,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-twitter-plugin
 
 paginate: 7
 paginate_path: "/page/:num"
