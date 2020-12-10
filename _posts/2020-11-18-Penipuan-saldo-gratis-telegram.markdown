@@ -2,7 +2,7 @@
 layout: post
 title:  Penipuan Uang/saldo Gratis Bot Telegram
 date:   2020-11-18 12:06:55 +0300
-image:  post_2/gopay.jpg
+image:  post_2/dana.png
 tags:   [Info]
 ---
 
@@ -16,6 +16,8 @@ Baru-baru ini saat saya sedang asyik diskusi di grup telegram, ada banyak member
 ## Bagaimana Awal Mula Bot Ini?
 
 setelah saya selidiki ternyata trend mengeshare link bot telegram tersebut berasal dari video tiktok. Isi dari video tiktok tersebut memberikan tutorial bagaimana mendapatkan saldo gratis mulai dari ini... ke situ.... (gak perlu saya jelaskan intinya cuma mengeshare link referral itu aja) 
+
+Kurang lebih seperti ini tampilan botnya....
 
 ![]({{site.baseurl}}/img/post_2/screenshot_36.png)
 
