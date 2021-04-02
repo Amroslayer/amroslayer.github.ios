@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Penipuan Uang/saldo Gratis Bot Telegram
+title:  Penipuan Saldo Gratis Bot Telegram
 date:   2020-11-18 12:06:55 +0300
 image:  Post_2/dana.png
 tags:   [Info]
