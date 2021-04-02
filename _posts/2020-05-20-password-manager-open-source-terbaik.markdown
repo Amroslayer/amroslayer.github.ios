@@ -18,7 +18,7 @@ Karena open source mengizinkan kita untuk bisa melihat kode sumber yang mereka b
 
 ---
 
-### Password manager open source terbaik
+### Password Manager Open Source Terbaik
 
 
 ### 1. [KeepassXC](https://keepassxc.org)
