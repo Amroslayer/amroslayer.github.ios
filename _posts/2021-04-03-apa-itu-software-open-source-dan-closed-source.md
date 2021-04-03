@@ -2,7 +2,7 @@
 layout: post
 title:  Apa itu Software Open Source dan Closed Source?
 date:   2020-11-18 12:06:55 +0300
-image:  <img src="https://blog.eduonix.com/wp-content/uploads/2018/09/Open-Source-696x500.jpg">
+image:  post_2/Open-Source-696x500.jpg
 tags:   [Info]
 ---
 
@@ -16,7 +16,7 @@ Maka kali ini saya akan membahas kedua tipe tersebut.
 
 Open Source dikutip dari [wikipedia](https://en.wikipedia.org/wiki/Open_source) adalah software yang membuka atau menyediakan source code yang tersedia dengan bebas untuk dimodifikasi dan redistribusi. Maksudnya yaitu source code di dalam software tersebut terbuka. Kita bisa melihat kode dan memodifikasi software tersebut dengan yang kta inginkan dan kita bisa belajar dan membantu mengembangkan source code tersebut agar software menjadi lebih baik.
 
-Closed Source_(Proprietary)_ adalah kebalikan dari open source, yaitu source code software yang didalam pengembangannya tidak terbuka atau si pihak pembuat software (developer) tidak membagikan source code tersebut sehingga kita tidak tahu source code di dalam software yang dibuatnya. 
+Closed Source _(Proprietary)_ adalah kebalikan dari open source, yaitu source code software yang didalam pengembangannya tidak terbuka atau si pihak pembuat software (developer) tidak membagikan source code tersebut sehingga kita tidak tahu source code di dalam software yang dibuatnya. 
 
 ## Apa contoh Software Open Source dan Closed Source?
 
