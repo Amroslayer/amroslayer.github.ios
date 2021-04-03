@@ -2,7 +2,7 @@
 layout: post
 title:  Apa itu Software Open Source dan Closed Source?
 date:   2020-11-18 12:06:55 +0300
-image:  post_2/Open-Source-696x500.jpg
+image:  Post_2/Open-Source-696x500.jpg
 tags:   [Info]
 ---
 
