@@ -2,7 +2,7 @@
 layout: post
 title:  Apa itu Software Open Source dan Closed Source?
 date:   2020-11-18 12:06:55 +0300
-image:  https://blog.eduonix.com/wp-content/uploads/2018/09/Open-Source-696x500.jpg
+image:  <img src="https://blog.eduonix.com/wp-content/uploads/2018/09/Open-Source-696x500.jpg">
 tags:   [Info]
 ---
 
@@ -26,9 +26,9 @@ Software open source contohnya yang umum saat ini yaitu seperti VLC media player
 
 ## Apa Pentingnya Open Source dan Closed Source?
 
-Software Open source menyediakan source code secara bebas dan terbuka sehingga kita bisa memverifikasi software tersebut transparan dan tidak menyisipkan code berbahaya yang dibuat dalam software tersebut. Source code yang dibuatnya biasanya dihosting di website seperti (Github.com)[https://github.com].
+Software Open source menyediakan source code secara bebas dan terbuka sehingga kita bisa memverifikasi software tersebut transparan dan tidak menyisipkan code berbahaya yang dibuat dalam software tersebut. Source code yang dibuatnya biasanya dihosting di website seperti [Github.com](https://github.com).
 
-Sedangkan software Slosed source tidak menyediakan source code secara bebas dan kita tidak dapat memverifikasi bahkan tidak bisa melihat source code pembuatan software tersebut dan bisa saja di dalam software tersebut disisipkan spyware atau code berbahaya lainnya dan pastinya tidak transparan. 
+Sedangkan software Closed source tidak menyediakan source code secara bebas dan kita tidak dapat memverifikasi bahkan tidak bisa melihat source code pembuatan software tersebut dan bisa saja di dalam software tersebut disisipkan spyware atau code berbahaya lainnya dan pastinya tidak transparan. 
 
 ## Penutup 
 
